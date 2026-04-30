@@ -82,8 +82,7 @@ EmployeeManagementSystem/
 ├── README.md
 └── .gitignore
 
-
----
+-------
 
 ## 🗄️ Database Setup
 
